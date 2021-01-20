@@ -1,0 +1,3 @@
+[submodule "deps/Qt-Ribbon-Widget"]
+	path = deps/Qt-Ribbon-Widget
+	url = https://github.com/martijnkoopman/Qt-Ribbon-Widget
